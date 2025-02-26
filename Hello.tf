@@ -4,4 +4,4 @@ output hello {
     value = "hello world"
 }
 
-# to get out cmd - terraform plan
+# to get out cmd - terraform plan.
