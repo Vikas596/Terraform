@@ -39,5 +39,6 @@
 variable user {
 
     type = list
+    default=["Vikas","AVInash","anKit"]
   
 }
