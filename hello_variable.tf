@@ -1,4 +1,4 @@
 output printname {
-    value = "hello ${var.username}"
+    value = "Your name is ${var.username} and your age is ${var.age}"
   
 }

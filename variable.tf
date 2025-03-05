@@ -8,6 +8,12 @@
 
 variable username {
 
-    default = "world , vikas"
+    default = "Vikas"
   
 }
+
+variable age {
+    
+}
+
+# We can also use variable in not interectve mode by terraform plan -var age="30"
