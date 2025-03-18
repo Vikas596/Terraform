@@ -36,9 +36,23 @@
 
 # This is the example of List type variable - 4
 
-variable user {
+# variable user {
 
-    type = list
-    default=["Vikas","AVInash","anKit"]
+#     type = list
+#     default=["Vikas","AVInash","anKit"]
   
+# }
+
+# 5 --------------------------- mapfuntion
+
+variable "userage" {
+    type = map
+    default = {
+    Ram=20
+    Sita=18
+    }
+}
+
+variable "username" {
+ 
 }
