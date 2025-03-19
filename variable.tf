@@ -45,14 +45,31 @@
 
 # 5 --------------------------- mapfuntion
 
-variable "userage" {
-    type = map
-    default = {
-    Ram=20
-    Sita=18
-    }
+# variable "userage" {
+#     type = map
+#     default = {
+#     Ram=20
+#     Sita=18
+#     }
+# }
+
+# variable "username" {
+ 
+# }
+
+# 6 --------------------------------------------
+#  This is example of default variable which we can create file useing terraform.tfvar name for give default variable
+
+
+
+variable "age" {
+    type = number
+  
 }
 
 variable "username" {
- 
+    
+    type = string
+  
 }
+
