@@ -3,7 +3,10 @@
 
 # username = "Vikas"
 # age = 25
+<<<<<<< HEAD
+=======
 
+>>>>>>> a307b4f (test)
 
 # for running this file name 
 

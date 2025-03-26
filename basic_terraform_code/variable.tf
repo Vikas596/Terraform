@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # This the example of variable which not default - 1
 
 # variable username {
@@ -95,9 +94,5 @@ variable "username" {
     type = string
   
 }
->>>>>>> 6ed77e5 (this is the example of default variable with default file name and other file name)
+>>>>>>> 6ed77e5015ab8c96ac38dff3475284b746f2fe7c
 
-=======
-variable token {
-    }
->>>>>>> b198319 (this is structured form of creating git repo)
