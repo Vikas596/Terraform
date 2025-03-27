@@ -75,6 +75,30 @@
   
 # }
 =======
+<<<<<<< HEAD
+=======
+
+# variable "username" {
+ 
+# }
+
+# 6 --------------------------------------------
+#  This is example of default variable which we can create file useing terraform.tfvar name for give default variable
+
+
+
+variable "age" {
+    type = number
+  
+}
+
+variable "username" {
+    
+    type = string
+  
+}
+>>>>>>> 6ed77e5015ab8c96ac38dff3475284b746f2fe7c
+>>>>>>> e78b99c50d98d851e2652ff630400c3f595f81d4
 
 # variable "username" {
  
